@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-RFM
+# Customer-Segmentation-RFM
 This project demonstrates customer segmentation using the **RFM** (Recency, Frequency, and Monetary) model.
 RFM is a widely used technique to analyze and segment customers based on their purchasing behavior.
 
